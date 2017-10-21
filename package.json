@@ -2,7 +2,7 @@
   "name": "neweggstockchecker",
   "version": "0.0.1",
   "description": "A electron app to check if a given item is in stock on newegg",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
