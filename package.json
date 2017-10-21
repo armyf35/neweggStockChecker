@@ -1,0 +1,19 @@
+{
+  "name": "neweggstockchecker",
+  "version": "0.0.1",
+  "description": "A electron app to check if a given item is in stock on newegg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armyf35/neweggStockChecker.git"
+  },
+  "author": "Sam Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armyf35/neweggStockChecker/issues"
+  },
+  "homepage": "https://github.com/armyf35/neweggStockChecker#readme"
+}
